@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skidvro&" alt="skidvro" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1118921335834427442)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1118921335834427442)](https://discord.com/users/1118921335834427442)
