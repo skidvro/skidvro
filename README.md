@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skidvro&" alt="skidvro" /></p>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<1118921335834427442>)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<your 1118921335834427442>)
